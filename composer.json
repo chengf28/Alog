@@ -1,0 +1,15 @@
+{
+    "name": "chengf28/log-parse",
+    "description": "a log record and parse tool",
+    "type": "project",
+    "require": {
+        "php": ">= 7.1.0"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "wind",
+            "email": "chengf_28@163.com"
+        }
+    ]
+}
