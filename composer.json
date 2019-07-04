@@ -1,5 +1,5 @@
 {
-    "name": "chengf28/log-parse",
+    "name": "chengf28/a-log",
     "description": "a log record and parse tool",
     "type": "project",
     "require": {
@@ -11,5 +11,10 @@
             "name": "wind",
             "email": "chengf_28@163.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Alog\\":"src/"
+        }
+    }
 }
